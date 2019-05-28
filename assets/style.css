@@ -1,0 +1,24 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-decoration-style: wavy;
+}
+
+/**
+ * Page
+ */
+.page {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+/**
+ * Header
+ */
+.header {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 32px;
+}
