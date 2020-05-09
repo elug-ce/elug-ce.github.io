@@ -5,6 +5,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: elug_ce
 github_username: elug-ce
+
+disqus:
+  shortname: elug-ce
 google_analytics: UA-166036246-1
 
 # Build settings
