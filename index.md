@@ -5,6 +5,8 @@
 layout: home
 ---
 
-O Elixir User Group CE (Grupo de Usuários Elixir do Ceará) é um grupo de usuários da linguagem de programção funcional [Elixir](https://elixir-lang.org/). Somos um grupo de aficcionados por programação funcional, e você também pode se juntar a nós!
+**Bem-vindo!**
 
-Nos encontramos virtualmente no [Telegram](https://t.me/elug_ce). Também estamos no [Facebook](https://fb.com/elugce), [Instagram](https://www.instagram.com/elug_ce) e [Twitter](https://twitter.com/elug_ce).
+Somos o grupo de usuários das linguagens de programação funcional [Elixir](https://elixir-lang.org/) e [Erlang](https://www.erlang.org/) do Ceará. Nossa missão é ser o principal ponto de encontro cearense quando o assunto é Elixir e Erlang/OTP!
+
+Conheça mais [sobre nós](/sobre), participe de [nossos encontros e atividades](/atividades), confira nossos [projetos open source](/open-source) ou venha discutir engenharia de software conosco no [nosso Telegram](https://t.me/elug_ce).
