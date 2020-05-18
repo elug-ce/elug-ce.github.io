@@ -1,10 +1,13 @@
 title: Elug CE
 email: elugce@gmail.com
-description: Elixir User Group CE (Grupo de Usuários Elixir do Ceará)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: elug_ce
+description: Grupo de usuários Elixir/Erlang do Ceará
+baseurl: ""
+url: ""
+
+facebook_username: elugce
 github_username: elug-ce
+instagram_username: elug_ce
+twitter_username: elug_ce
 
 disqus:
   shortname: elug-ce
