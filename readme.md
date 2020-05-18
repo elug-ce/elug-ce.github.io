@@ -2,22 +2,30 @@
 
 [![Build Status](https://travis-ci.org/elug-ce/elug-ce.github.io.svg?branch=master)](https://travis-ci.org/elug-ce/elug-ce.github.io)
 
-GitHub Pages of the Elixir User Group CE.
-
-[We are on Telegram! Click to join us.](https://t.me/elug_ce)
+Código-fonte do site do Elug CE. Para saber mais sobre nós, acesse nosso site, [elug-ce.github.io](https://elug-ce.github.io/sobre).
 
 ## Building
 
-You'll need [Ruby](https://www.ruby-lang.org/) and [Jekyll](https://jekyllrb.com/). Check their respective documentation for installation instructions.
+Você vai precisar ter [Ruby](https://www.ruby-lang.org/) e [Jekyll](https://jekyllrb.com/) instalados. Verifique as instruções de instalação respectivas de cada projeto.
 
-To build the project, run:
+Para rodar o projeto em modo de desenvolvimento, execute:
 
 ```
 bundle exec jekyll serve
 ```
 
-It should be available at http://localhost:4000/.
+O site deve estar disponível localmente no endereço [localhost:4000](http://localhost:4000).
 
-## License
+Para buildar o projeto para produção, execute:
+
+```
+bundle exec jekyll build
+```
+
+Os assets publicáveis deverão estar em uma pasta chamada `_site`.
+
+Verifique a [documentação do Jekyll](https://jekyllrb.com/docs/) para maiores informações.
+
+## Licença
 
 [MIT](license)
