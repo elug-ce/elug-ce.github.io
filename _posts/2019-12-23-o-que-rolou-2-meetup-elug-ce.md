@@ -8,22 +8,6 @@ author: Joel Jucá
 author_url: https://twitter.com/joelwallis1
 ---
 
-<!--
-# TODO
-
-## Conteúdo
-
-- [x] Resumo do que aconteceu (linguagem positiva)
-- [x] Agradecer os participantes e palestrantes
-- [x] Citar a receptividade da Agenda Edu
-- [x] Listar palestras com links para slides e autores
-
-## Antes de publicar
-
-- [x] Atualizar datas
-- [x] Verificar ortografia (dica: corretor do Google Docs)
--->
-
 E aconteceu! O [2º Meetup Elug CE](https://eventil.com/events/elug-ce-meetup-2) foi nosso primeiro meetup com apresentação de palestras, e foi um sucesso absoluto! Tivemos um número até inesperado de pessoas, e podemos considerar que lotamos o espaço externo da [Agenda Edu](https://agendaedu.com). Tivemos um call for papers que resultou em duas palestras sobre tópicos como Elixir, OTP e Phoenix - além de um coffee break, e muitas discussões técnicas.
 
 Tivemos provavelmente o dobro de participantes em relação ao ultimo encontro.
