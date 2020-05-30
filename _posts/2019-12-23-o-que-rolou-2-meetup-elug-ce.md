@@ -4,7 +4,8 @@ title: O que rolou no 2º Meetup Elug CE
 published: true
 date: 2019-12-23 21:50:00 -0300
 permalink: /blog/o-que-rolou-no-2-meetup-elug-ce
-author: <a href="https://twitter.com/joelwallis1">Joel Jucá</a>
+author: Joel Jucá
+author_url: https://twitter.com/joelwallis1
 ---
 
 E aconteceu! O [2º Meetup Elug CE](https://eventil.com/events/elug-ce-meetup-2) foi nosso primeiro meetup com apresentação de palestras, e foi um sucesso absoluto! Tivemos um número até inesperado de pessoas, e podemos considerar que lotamos o espaço externo da [Agenda Edu](https://agendaedu.com). Tivemos um call for papers que resultou em duas palestras sobre tópicos como Elixir, OTP e Phoenix - além de um coffee break, e muitas discussões técnicas.
