@@ -26,6 +26,13 @@ Em maio de 2020 foi iniciado um curso de [programação funcional em Erlang (en-
 
 As chamadas Erlang Fridays acontecem às 7 pm das sextas-feiras, quando nos reunimos em videoconferência para falarmos sobre nosso progresso no curso. O link da videoconferência é publicado no [nosso grupo do Telegram](https://t.me/elug_ce), e a participação é livre.
 
+Edições realizadas:
+
+- [1º Erlang Friday](/blog/1-erlang-friday) (Jitsi. Mai 20)
+- [2º Erlang Friday](/blog/2-erlang-friday) (Jitsi. Mai 20)
+- [3º Erlang Friday](/blog/3-erlang-friday) (Jitsi. Mai 20)
+- [4º Erlang Friday](/blog/4-erlang-friday) (Jitsi. Mai 20)
+
 ## Participe!
 
 Nossas atividades não tem fins lucrativos, e geralmente são gratuitas. Para participar, basta ficar ligado no [grupo do Telegram](https://t.me/elug_ce), nosso "point virtual", onde anunciamos as atividades do grupo.
