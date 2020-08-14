@@ -15,8 +15,8 @@ Nossos meetups são encontros presenciais esporádicos realizados para promoçã
 Edições realizadas:
 
 - [1º Meetup Elug CE](https://eventil.com/events/elug-ce-meetup-1) (MacLaren's Burger Pub. Jun 19)
-- [2º Meetup Elug CE](https://eventil.com/events/elug-ce-meetup-2) (Agenda Edu. Nov 19)
-<!-- - [3º Meetup Elug CE - Edição Online](https://www.eventbrite.com/e/3o-meetup-elug-ce-edicao-online-tickets-105455973656) (Jitsi. Mai 20) -->
+- [2º Meetup Elug CE](/blog/o-que-rolou-no-2-meetup-elug-ce) (Agenda Edu. Nov 19)
+- [3º Meetup Elug CE](/blog/3-meetup-elug-ce) (Edição Online; Jitsi. Mai 20)
 
 > Nota: devido à pandemia COVID-19 suspendemos o formato presencial dos meetups, e estamos aderindo temporariamente ao formato online (videoconferências).
 
