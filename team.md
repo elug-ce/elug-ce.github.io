@@ -42,13 +42,9 @@ Nascido e criado com leite de cabra no Ceará, sou atualmente vegano, pai e enge
 
 Cearense, 41, engenheiro de software. Co-organizador do GURU-CE
 
-O Ramakanta (Renoir Sousa - nosso querido Rama) foi um desenvolvedor Ruby, co-organizador do GURU-CE, um dos membros fundadores do Elug CE. Seu nome Ramakanta Dasa vem de sua religião vaishnava, uma das ramificações mais populares do hinduísmo, sendo Renoir Sousa seu nome de batismo.
+O Ramakanta (Renoir Sousa - nosso querido Rama) foi um desenvolvedor Ruby, co-organizador do GURU-CE e um dos membros fundadores do Elug CE. Seu nome Ramakanta Dasa vem de sua religião vaishnava, uma das ramificações mais populares do hinduísmo, sendo Renoir Sousa seu nome de batismo.
 
-> _O Rama teve um papel muito importante na criação do Elug CE. Foi ele quem me apoiou a criá-lo e organizá-lo da forma como ele é hoje. Lembro de, em uma de nossas inúmeras conversas, questioná-lo qual seria o sentido de criar uma comunidade cearense de Elixir quando não conhecíamos praticamente ninguém que usasse ou trabalhasse com isso no Ceará. A sua resposta foi o incentivo que me fez decidir por criar o grupo:_
->
-> _"Cara, cria! Primeiro você cria o Elug CE. Depois você se preocupa em encontrar essa galera."_
->
-> _Parece uma frase boba, simples - mas pra quem estava com medo de se expor publicamente investindo em um projeto que podia não dar em nada, esse pequeno incentivo era o que eu precisava para dar os primeiros passos. Ver hoje o Elug CE ultrapassar a marca de cem membros no grupo do Telegram me faz lembrar frequentemente dos seus incentivos._
+> _Rama teve um papel muito importante na criação da comunidade Elug CE. Com ele eu tive as primeiras discussões sobre formato e cultura da comunidade, quando e onde criá-la. Inclusive, veio dele o apoio inicial para fazer do Elug CE uma realidade.
 >
 > O Rama faleceu em julho de 2019, vítima de um câncer bem agressivo. Sua partida deixou uma saudade indescritível à família e amigos.
 >
