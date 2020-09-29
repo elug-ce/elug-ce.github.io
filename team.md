@@ -28,6 +28,16 @@ Dentre os projetos open source que já contribuí, posso listar Ruby on Rails, G
 - [LinkedIn](https://www.linkedin.com/in/herminiotorres)
 - [Twitter](https://twitter.com/herminiotorres)
 
+## Yuri Oliveira
+
+Cearense, 31, engenheiro de software. Co-organizador do Elixercism
+
+Nascido e criado com leite de cabra no Ceará, sou atualmente vegano, pai e engenheiro de software em tempo integral. Formado em Engenharia de Computação pelo vício em telas e em Publicidade pelo vício em pessoas. Praticante de Elixercism e consumidor de música com afeto, ocasionalmente pratica Ashtanga Yoga e surfa sem frequência.
+
+- [GitHub](https://github.com/yuriploc)
+- [LinkedIn](https://www.linkedin.com/in/yurioliveira)
+- [Twitter](https://twitter.com/yuriploc)
+
 ## Ramakanta Dasa (Renoir Sousa)
 
 Cearense, 41, engenheiro de software. Co-organizador do GURU-CE
