@@ -16,6 +16,18 @@ Nascido em Fortaleza, mora atualmente em Maracanaú, CE. Um praticante esporádi
 - [LinkedIn](https://www.linkedin.com/in/joelwallis)
 - [Twitter](https://twitter.com/joelwallis1)
 
+## Herminio Torres
+
+Cearense, 36, engenheiro de software. Co-rganizador do Elixercism
+
+Um amante de problemas lógicos que acredita demais no trabalho colaborativo, programação em par e TDD. Especialista de Ruby on Rails, estuda atualmente Elixir e programação funcional como hobby.
+
+Dentre os projetos open source que já contribuí, posso listar Ruby on Rails, GitLab, Exercism, Rails Rumble.
+
+- [GitHub](https://github.com/herminiotorres)
+- [LinkedIn](https://www.linkedin.com/in/herminiotorres)
+- [Twitter](https://twitter.com/herminiotorres)
+
 ## Ramakanta Dasa (Renoir Sousa)
 
 Cearense, 41, engenheiro de software. Co-organizador do GURU-CE
