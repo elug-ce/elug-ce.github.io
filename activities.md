@@ -20,6 +20,12 @@ Edições realizadas:
 
 > Nota: devido à pandemia COVID-19 suspendemos o formato presencial dos meetups, e estamos aderindo temporariamente ao formato online (videoconferências).
 
+## Elixercism
+
+Que tal praticarmos nossos conhecimentos em Elixir resolvendo problemas do [Exercism](https://exercism.io) juntos? Essa é a idéia por trás do Elixercism. Um encontro semanal para discutir e resolver problemas lógicos escrevendo o melhor código Elixir possível. Programação em par, TDD, discussões técnicas e muito aprendizado é o que você vai encontrar nas edições do Elixercism.
+
+Toda terça-feira, às 8 pm. [meet.jit.si/elixercism](https://meet.jit.si/elixercism)
+
 ### Erlang Fridays
 
 Em maio de 2020 foi iniciado um curso de [programação funcional em Erlang (en-UK)](https://www.futurelearn.com/courses/functional-programming-erlang), e como alguns membros da nossa comunidade aderiram ao curso nós estamos promovendo um encontro virtual semanal para conversarmos sobre o aprendizado durante do curso.
