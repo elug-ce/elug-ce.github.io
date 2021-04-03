@@ -1,0 +1,183 @@
+# people.yml
+#
+# This file holds general information for the people who somehow contributed to
+# one or more of our activities, like events, meetups, workshops, etc. We use it
+# to control how their information (name and URLs) is published across the
+# many pages of this website.
+#
+# Below is a template/schema of how each fields must be filled, along with
+# inline comments (copy, paste and uncomment it for every new person added):
+#
+#   # Each person is an object/hash uniquely identified by a key. Using the
+#   # person's first and last name, dashed and lowercased, is appreciated
+#   jose-valim:
+#     # The person name (required; first and last name only, preferably)
+#     name: José Valim
+#     # The person Gravatar email hash (optional)
+#     # PLEASE DO NOT ENTER RAW/UNENCRYPTED EMAILS HERE!
+#     gravatar_hash: a97b0e763da8c286b0f9424733985a4f
+#     # The person URL collection (optionals but highly appreciated)
+#     # Some keys (github, linkedin, twitter, website) have special meaning
+#     urls:
+#       github: https://github.com/josevalim
+#       linkedin: https://www.linkedin.com/in/josevalim/
+#       twitter: https://twitter.com/josevalim
+#       website: https://dashbit.co/
+#
+# --
+#
+# Notes:
+#
+# - As a matter of organization and better DX when for when this file grows,
+#   please keep people lexographically sorted by their keys.
+#
+
+allef-gomes:
+  name: Allef Gomes
+  urls:
+    github: https://github.com/allefgomes
+    linkedin: https://www.linkedin.com/in/allef-gomes/
+    twitter: https://twitter.com/allefgalmeida
+
+antranig-vartanian:
+  name: Antranig Vartanian
+  urls:
+    github: https://github.com/antranigv
+    linkedin: https://www.linkedin.com/in/antranigv/
+    twitter: https://twitter.com/antranigv
+
+cairo-noleto:
+  name: Cairo Noleto
+  urls:
+    github: https://github.com/caironoleto
+    linkedin: https://www.linkedin.com/in/caironoleto/
+    twitter: https://twitter.com/caironoleto
+
+charlotte-oliveira:
+  name: Charlotte Oliveira
+  urls:
+    github: https://github.com/umamaistempo
+    linkedin: https://www.linkedin.com/in/umamaistempo/
+    twitter: https://twitter.com/umamaistempo
+
+cristine-guadelupe:
+  name: Cristine Guadelupe
+  urls:
+    github: https://github.com/cristineguadelupe
+    linkedin: https://www.linkedin.com/in/cristineguadelupe/
+    twitter: https://twitter.com/crisguade
+
+breno-moura:
+  name: Breno Moura
+  urls:
+    github: https://github.com/basmoura
+    linkedin: https://www.linkedin.com/in/basmoura/
+    twitter: https://twitter.com/basmoura
+
+diego-santos:
+  name: Diego Santos
+  urls:
+    github: https://github.com/diegoleonardo
+    linkedin: https://www.linkedin.com/in/diego-pantoja/
+
+francisco-barroso:
+  name: Francisco Barroso
+  urls:
+    github: https://github.com/barroso
+    linkedin: https://www.linkedin.com/in/franciscobarrosodasilva/
+    website: https://www.barroso.dev
+
+gustavo-oliveira:
+  name: Gustavo Oliveira
+  urls:
+    linkedin: https://www.linkedin.com/in/gustavo-oliveira-642b23aa/
+
+gutierre-braga:
+  name: Gutierre Braga
+  urls:
+    github: https://github.com/gutierre-braga
+
+herminio-torres:
+  name: Herminio Torres
+  urls:
+    github: https://github.com/herminiotorres
+    linkedin: https://www.linkedin.com/in/herminiotorres/
+    twitter: https://twitter.com/herminiotorres
+
+ian-ramos:
+  name: Ian Ramos
+  urls:
+    github: https://github.com/ianramosc
+    linkedin: https://www.linkedin.com/in/ianramosc/
+    twitter: https://twitter.com/ianramosc
+
+joel-juca:
+  name: Joel Jucá
+  gravatar_hash: acfa202cc869d143b760cff76659cb64
+  urls:
+    github: https://github.com/joeljuca
+    linkedin: https://www.linkedin.com/in/joeljuca/
+    twitter: https://twitter.com/holyshtjoe
+    website: https://j0e.cc
+
+joffily-ferreira:
+  name: Joffily Ferreira
+  urls:
+    github: https://github.com/joffilyfe
+    linkedin: https://www.linkedin.com/in/joffily/
+    twitter: https://twitter.com/joffilyfe
+
+juliana-helena:
+  name: Juliana Helena
+  urls:
+    linkedin: https://www.linkedin.com/in/juliana-helena/
+    github: https://github.com/julianahelena5
+    twitter: https://twitter.com/_julianahelena
+
+moroni-sauner:
+  name: Morôni Sauner
+  urls:
+    github: https://github.com/moronisauner
+    linkedin: https://www.linkedin.com/in/moroni-sauner/
+    twitter: https://twitter.com/moronisauner
+
+paulo-valente:
+  name: Paulo Valente
+  urls:
+    github: https://github.com/polvalente
+    linkedin: https://www.linkedin.com/in/polvalente/
+    twitter: https://twitter.com/polvalente
+
+pedro-castilho:
+  name: Pedro Castilho
+  urls:
+    github: https://github.com/coproduto
+    linkedin: https://www.linkedin.com/in/pcstl/
+    twitter: https://twitter.com/coproduto
+
+renan-ranelli:
+  name: Renan Ranelli
+  urls:
+    github: https://github.com/rranelli
+    linkedin: https://www.linkedin.com/in/renan-ranelli/
+    twitter: https://twitter.com/renanranelli
+
+vinicius-melo:
+  name: Vinícius Dantas
+  urls:
+    github: https://github.com/viniciusd
+    linkedin: https://www.linkedin.com/in/vidantas/
+
+willian-frantz:
+  name: Willian Frantz
+  urls:
+    github: https://github.com/wlsf
+    linkedin: https://www.linkedin.com/in/willianfrantz/
+    twitter: https://twitter.com/frantz_willian
+
+yuri-oliveira:
+  name: Yuri Oliveira
+  urls:
+    github: https://github.com/yuriploc
+    linkedin: https://www.linkedin.com/in/yurioliveira/
+    twitter: https://twitter.com/yuriploc
