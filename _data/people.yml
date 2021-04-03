@@ -1,0 +1,69 @@
+# people.yml
+#
+# This file holds general information for the people who somehow contributed to
+# one or more of our activities, like events, meetups, workshops, etc. We use it
+# to control how their information (names, titles, URLs) is published across the
+# many pages of this website.
+#
+# Below is a template/schema of how each fields must be filled, along with
+# inline comments (copy, paste and uncomment it for every new person added):
+#
+#   # Each person is an object/hash uniquely identified by a key. Using the
+#   # person's first and last name, dashed and lowercased, is appreciated
+#   jose-valim:
+#     # The person name (required; first and last name only, preferably)
+#     name: José Valim
+#     # The person title (optional; might the same used in LinkedIn)
+#     title: Chief Adoption Officer at Dashbit
+#     # The person Gravatar email hash (optional)
+#     # PLEASE DO NOT ENTER RAW/UNENCRYPTED EMAILS HERE!
+#     gravatar_hash: a97b0e763da8c286b0f9424733985a4f
+#     # The person URL collection (optionals but highly appreciated)
+#     # Some keys (github, linkedin, twitter, website) have special meaning
+#     urls:
+#       github: https://github.com/josevalim
+#       linkedin: https://www.linkedin.com/in/josevalim/
+#       twitter: https://twitter.com/josevalim
+#       website: https://dashbit.co/#team
+#
+# --
+#
+# Notes:
+#
+# - As a matter of organization and better DX when for when this file grows,
+#   please keep people lexographically sorted by their keys.
+# - Titles in pt-BR are not required but highly appreciated
+
+charlotte-oliveira:
+  name: Charlotte Oliveira
+  title: Consultora em Distru.com
+  urls:
+    github: https://github.com/umamaistempo
+    linkedin: https://www.linkedin.com/in/umamaistempo/
+    twitter: https://twitter.com/umamaistempo
+
+herminio-torres:
+  name: Herminio Torres
+  title: Engenheiro de software
+  urls:
+    github: https://github.com/herminiotorres
+    linkedin: https://www.linkedin.com/in/herminiotorres/
+    twitter: https://twitter.com/herminiotorres
+
+joel-juca:
+  name: Joel Jucá
+  title: Engenheiro de software
+  gravatar_hash: acfa202cc869d143b760cff76659cb64
+  urls:
+    github: https://github.com/joeljuca
+    linkedin: https://www.linkedin.com/in/joeljuca/
+    twitter: https://twitter.com/holyshtjoe
+    website: https://j0e.cc
+
+willian-frantz:
+  name: Willian Frantz
+  title: Engenheiro de software em Magnetis Investimentos
+  urls:
+    github: https://github.com/wlsf
+    linkedin: https://www.linkedin.com/in/willianfrantz/
+    twitter: https://twitter.com/frantz_willian
