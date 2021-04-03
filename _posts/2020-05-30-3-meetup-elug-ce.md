@@ -5,7 +5,7 @@ published: true
 date: 2020-05-30 10:00:00 -0300
 permalink: /blog/3-meetup-elug-ce
 author: Joel Jucá
-author_url: https://twitter.com/joelwallis1
+author_url: https://twitter.com/holyshtjoe
 ---
 
 Aconteceu nesta terça-feira, dia 26 de maio de 2020, o [3º Meetup Elug CE](https://www.eventbrite.com/e/3o-meetup-elug-ce-edicao-online-tickets-105455973656). Esta foi nossa primeira edição virtual, e a edição com a maior quantidade de participantes.

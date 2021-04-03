@@ -5,7 +5,7 @@ published: true
 date: 2019-12-23 21:50:00 -0300
 permalink: /blog/o-que-rolou-no-2-meetup-elug-ce
 author: Joel Jucá
-author_url: https://twitter.com/joelwallis1
+author_url: https://twitter.com/holyshtjoe
 ---
 
 E aconteceu! O [2º Meetup Elug CE](https://eventil.com/events/elug-ce-meetup-2) foi nosso primeiro meetup com apresentação de palestras, e foi um sucesso absoluto! Tivemos um número até inesperado de pessoas, e podemos considerar que lotamos o espaço externo da [Agenda Edu](https://agendaedu.com). Tivemos um call for papers que resultou em duas palestras sobre tópicos como Elixir, OTP e Phoenix - além de um coffee break, e muitas discussões técnicas.
@@ -20,7 +20,7 @@ O [primeiro meetup](https://eventil.com/events/elug-ce-meetup-1) aconteceu na [h
 
 Tivemos duas palestras no meetup. Ambas palestras tiveram um tom introdutório, visto que a comunidade é jovem e Elixir ainda não é tão popular por aqui:
 
-- **[Introdução ao Elixir](https://speakerdeck.com/joelwallis/introducao-ao-elixir)**, por [Joel Jucá](https://twitter.com/joelwallis1)
+- **[Introdução ao Elixir](https://speakerdeck.com/joeljuca/introducao-ao-elixir)**, por [Joel Jucá](https://twitter.com/holyshtjoe)
 - **[Elixir & Phoenix](https://slides.com/luigiwillian/elixir-phoenix)**, por [Willian Frantz](https://twitter.com/frantz_willian)
 
 ## Playbook Elug CE

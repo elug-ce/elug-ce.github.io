@@ -5,7 +5,7 @@ published: true
 date: 2021-02-21 12:00:00 -0300
 permalink: /blog/6-meetup-elug-ce
 author: Joel Jucá
-author_url: https://twitter.com/joelwallis1
+author_url: https://twitter.com/holyshtjoe
 ---
 
 No dia 4 de dezembro de 2020 tivemos o 6º Meetup Elug CE acontecendo online, com apresentações sobre metaprogramação, Broadway, supervisão de processos e muita troca de idéias!

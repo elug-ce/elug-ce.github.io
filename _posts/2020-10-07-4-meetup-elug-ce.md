@@ -5,7 +5,7 @@ published: true
 date: 2020-10-07 19:00:00 -0300
 permalink: /blog/4-meetup-elug-ce
 author: Joel Jucá
-author_url: https://twitter.com/joelwallis1
+author_url: https://twitter.com/holyshtjoe
 ---
 
 Realizamos nessa quarta-feira (7 de outubro de 2020) o [4º Meetup Elug CE](https://www.eventbrite.com/e/4o-meetup-elug-ce-tickets-120297730751). Tivemos apresentações sobre supervisão de processos, GenServers, um relato de experiência em um projeto que usou Ruby e Elixir - além do nosso happy hour pós-evento tradicional.

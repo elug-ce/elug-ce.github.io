@@ -12,9 +12,9 @@ Cearense, 31, engenheiro de software. Fundador e líder do Elug CE
 
 Nascido em Fortaleza, mora atualmente em Maracanaú, CE. Um praticante esporádico de esportes como ciclismo, calistenia e muay thai. Morou em outras oito cidades brasileiras, de estados como CE, PB, SP, RJ e SC. Tem webdev como hobby desde 2002 e como profissão desde 2005, tendo trabalhado nos mercados de Flash, PHP, Ruby e JavaScript (front-end moderno e Node.js). Atualmente estuda programação funcional e computação distribuída com Elixir e Erlang/OTP.
 
-- [GitHub](https://github.com/joelwallis)
-- [LinkedIn](https://www.linkedin.com/in/joelwallis)
-- [Twitter](https://twitter.com/joelwallis1)
+- [GitHub](https://github.com/joeljuca)
+- [LinkedIn](https://www.linkedin.com/in/joeljuca)
+- [Twitter](https://twitter.com/holyshtjoe)
 
 ## Herminio Torres
 

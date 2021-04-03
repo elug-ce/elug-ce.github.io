@@ -5,7 +5,7 @@ published: true
 date: 2020-11-09 17:20:00 -0300
 permalink: /blog/5-meetup-elug-ce
 author: Joel Jucá
-author_url: https://twitter.com/joelwallis1
+author_url: https://twitter.com/holyshtjoe
 ---
 
 Realizamos nessa quarta-feira (4 de novembro de 2020) o [5º Meetup Elug CE](https://www.eventbrite.com/e/5o-meetup-elug-ce-tickets-126677795697). Tivemos apresentações sobre protocolos em Elixir e tolerância a falhas com Erlang/OTP.
