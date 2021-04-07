@@ -6,7 +6,7 @@ permalink: /atividades
 
 O Elug CE realiza atividades, como encontros e meetups, para promover networking e integração social da comunidade, sem fins lucrativos.
 
-Confira abaixo a lista atividades realizadas pelo Elug CE
+Confira abaixo a lista atividades realizadas pelo Elug CE.
 
 ### Meetups Elug CE
 
@@ -38,6 +38,15 @@ Edições realizadas:
 - [2º Erlang Friday](/blog/2-erlang-friday) (Jitsi. Mai 20)
 - [3º Erlang Friday](/blog/3-erlang-friday) (Jitsi. Mai 20)
 - [4º Erlang Friday](/blog/4-erlang-friday) (Jitsi. Mai 20)
+
+## Calendário Elug CE
+
+Disponibilizamos também o [Calendário Elug CE](https://calendar.google.com/calendar/embed?src=elugce%40gmail.com) (Google Agenda), onde publicamos a agenda completa da nossa programação. Você pode adicionar o Calendário Elug CE ao seu próprio calendário através da URL iCal:
+
+- Calendário Elug CE: [https://calendar.google.com/calendar/embed?src=elugce%40gmail.com](https://calendar.google.com/calendar/embed?src=elugce%40gmail.com)
+- iCal: [https://calendar.google.com/calendar/ical/elugce%40gmail.com/public/basic.ics](https://calendar.google.com/calendar/ical/elugce%40gmail.com/public/basic.ics)
+
+Aconselhamos nossos membros a adicionarem nosso calendário em seus apps para ficar por dentro do que está rolando no Elug CE.
 
 ## Participe!
 
