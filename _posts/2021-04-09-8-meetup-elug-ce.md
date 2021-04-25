@@ -10,6 +10,10 @@ author_url: https://twitter.com/holyshtjoe
 
 No dia 7 de abril de 2021 tivemos o 8º Meetup Elug CE acontecendo online, com apresentações sobre Phoenix, Open Source e carreira profissional!
 
+![8º Meetup Elug CE: Foto Oficial 1](/media/2021-04-07_elug-ce-meetup-8-foto-oficial-1.png "8º Meetup Elug CE: Foto Oficial 1")
+
+![8º Meetup Elug CE: Foto Oficial 2](/media/2021-04-07_elug-ce-meetup-8-foto-oficial-2.png "8º Meetup Elug CE: Foto Oficial 2")
+
 ## Apresentações
 
 ### Endpoints Phoenix
