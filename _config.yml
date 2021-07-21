@@ -4,6 +4,10 @@ description: Grupo de usuários Elixir/Erlang do Ceará
 baseurl: ""
 url: ""
 
+collections:
+  meetups:
+    output: true
+
 facebook_username: elugce
 github_username: elug-ce
 instagram_username: elug_ce
