@@ -31,6 +31,7 @@ Nesta palestra vamos examinar o que torna a plataforma Elixir & Erlang/OTP inter
 [Renan @milhouse Ranelli](https://www.linkedin.com/in/renan-ranelli/) - Engenheiro de Software Senior na Podium
 
 - [Gravação](https://www.youtube.com/watch?v=ZOQzS3wEBCo)
+- [Slides](https://docs.google.com/presentation/d/1HlG-_bLjl_txfHNkDYdQOuIOr31cXfR3iD2alXojn7I)
 
 ## Agradecimentos
 
