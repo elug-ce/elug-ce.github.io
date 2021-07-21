@@ -1,6 +1,7 @@
 # Elug CE
 
 [![Build Status](https://travis-ci.org/elug-ce/elug-ce.github.io.svg?branch=master)](https://travis-ci.org/elug-ce/elug-ce.github.io)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c2ec444d-b1b7-4c86-8c5b-5d13f2af4a4a/deploy-status)](https://app.netlify.com/sites/elug-ce/deploys)
 
 Código-fonte do site do Elug CE. Para saber mais sobre nós, acesse nosso site, [elug-ce.github.io](https://elug-ce.github.io/sobre).
 
