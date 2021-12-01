@@ -26,7 +26,7 @@ Faremos um overview sobre como o Kafka funciona e como integrar com o Kafka usan
   <iframe src="https://www.youtube-nocookie.com/embed/_s1bF8N_dUw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:560px;height:315px;width:100%"></iframe>
 </p>
 
-[Victor Nascimento](https://www.linkedin.com/in/victor-oliveira-nascimento-92232738/) - Teach Leader na Stone Pagamentos
+[Victor Nascimento](https://www.linkedin.com/in/victor-oliveira-nascimento-92232738/) - Tech Leader na Stone Pagamentos
 
 - [Gravação](https://www.youtube.com/watch?v=_s1bF8N_dUw)
 
