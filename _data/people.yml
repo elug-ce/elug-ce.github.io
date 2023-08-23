@@ -1,36 +1,36 @@
-# people.yml
+# # people.yml
 #
 # This file holds general information for the people who somehow contributed to
 # one or more of our activities, like events, meetups, workshops, etc. We use it
 # to control how their information (name and URLs) is published across the
 # many pages of this website.
 #
+# Each person is an object/hash uniquely identified by a key (using dashed and
+# lowercased first and last names is appreciated).
+#
 # Below is a template/schema of how each fields must be filled, along with
 # inline comments (copy, paste and uncomment it for every new person added):
 #
-#   # Each person is an object/hash uniquely identified by a key. Using the
-#   # person's first and last name, dashed and lowercased, is appreciated
-#   jose-valim:
-#     # The person name (required; first and last name only, preferably)
-#     name: José Valim
-#     # The person Gravatar email hash (optional)
-#     # PLEASE DO NOT ENTER RAW/UNENCRYPTED EMAILS HERE!
-#     gravatar_hash: a97b0e763da8c286b0f9424733985a4f
-#     # The person URL collection (optionals but highly appreciated)
-#     # Some keys (github, linkedin, twitter, website) have special meaning
-#     urls:
-#       github: https://github.com/josevalim
-#       linkedin: https://www.linkedin.com/in/josevalim/
-#       twitter: https://twitter.com/josevalim
-#       website: https://dashbit.co/
+# ```yaml
+# jose-valim:
+#   # The person name (required; first and last name only, preferably)
+#   name: José Valim
+#   # The person Gravatar email hash (optional)
+#   # PLEASE DO NOT ENTER RAW/UNENCRYPTED EMAILS HERE!
+#   gravatar_hash: a97b0e763da8c286b0f9424733985a4f
+#   # The person URL collection (optionals but highly appreciated)
+#   # Some keys (github, linkedin, twitter, website) have special meaning
+#   urls:
+#     github: https://github.com/josevalim
+#     linkedin: https://www.linkedin.com/in/josevalim/
+#     twitter: https://twitter.com/josevalim
+#     website: https://dashbit.co/
+# ```
 #
-# --
-#
-# Notes:
-#
-# - As a matter of organization and better DX when for when this file grows,
-#   please keep people lexographically sorted by their keys.
-#
+# > ### Notes
+# >
+# > For the sake of maintainability and good DX, please keep entries
+# > alphabetically sorted by their keys.
 
 allef-gomes:
   name: Allef Gomes
