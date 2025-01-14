@@ -4,9 +4,9 @@ title: Sobre
 permalink: /sobre
 ---
 
-O Elug CE é o grupo de usuários das linguagens de programação funcional [Elixir](https://elixir-lang.org/) e [Erlang](https://www.erlang.org/) do Ceará. Um grupo técnico inclusivo e receptivo, composto desde curiosos e entusiastas até estudantes e profissionais de TI, engenheiros de software e CTOs. Aliás, não é preciso ter conhecimentos em Elixir ou Erlang para participar das nossas atividades.
+O Elug CE é o grupo de usuários das linguagens de programação funcional [Elixir](https://elixir-lang.org/) e [Erlang](https://www.erlang.org/) do Ceará. Um grupo técnico inclusivo e receptivo, composto desde curiosos e entusiastas até estudantes e profissionais de TI, engenheiros de software e C-levels.
 
-Se você quer fazer parte do Elug CE basta entrar para o nosso [grupo no Telegram](https://t.me/elug_ce) ou vir a um de nossos encontros. Você será muito bem-vindo!
+Para fazer parte do Elug CE basta entrar para o nosso [grupo no Telegram](https://t.me/elug_ce) ou vir a um de nossos encontros – não é preciso ter conhecimentos em Elixir ou Erlang para participar. Você será muito bem-vindo!
 
 ![Foto: 2º Meetup Elug CE. Agenda Edu, novembro de 2019](/media/elug-ce-at-agenda-edu-nov-2019.jpg "2º Meetup Elug CE. Agenda Edu, novembro de 2019")
 
